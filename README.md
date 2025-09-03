@@ -9,7 +9,6 @@
 | Abhay Gupta  | [Abhaygupta307](https://www.github.com/Abhaygupta307)  |
 | Purvi Chelawat  |   |
 | Purvi Gohade  |   |
-| Aayush Gupta  |   |
 
 
 # Project Coordinator:
